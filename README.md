@@ -22,7 +22,7 @@ How to Run
 
     bash
 
-git clone https://github.com/Thobani36/java-file-manager.git
+https://github.com/Thobani36/File-Manager.git
 
 Navigate to the project directory:
 
